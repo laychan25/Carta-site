@@ -1,0 +1,12 @@
+.rodape{
+    margin: 25px;
+    display: block;
+    flex-direction: column;
+}
+
+.rodape__texto{
+    font-family: var(--font-principal);
+    font-size: 0.5em;
+    
+}
+
